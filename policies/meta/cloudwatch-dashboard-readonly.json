@@ -1,0 +1,6 @@
+{
+    "PolicyName": "CloudWatch-Dashboard-ReadOnly",
+    "Path": "/",
+    "Description": "Grant read only access to CloudWatch Dashboards.",
+    "PolicyDocument": "XXPOLICYDOCXX"
+}
