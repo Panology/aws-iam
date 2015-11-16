@@ -1,6 +1,7 @@
 #!/bin/bash
 # addPolicy.sh
 # Script to add a new IAM policy
+# See licnese at https://github.com/Panology/aws-iam/blob/master/LICENSE
 #
 
 # Globals
